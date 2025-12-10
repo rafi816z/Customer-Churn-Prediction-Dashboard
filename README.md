@@ -76,7 +76,7 @@ The ML model was trained in Python, and scoring results were exported as a CSV f
 **Visual Highlights:**
 - **Customer Distribution by Risk Level:** Low, medium, and high churn probability segments  
 - **Churn Drivers by Customer Attributes:** Decomposition tree to identify drivers by gender, contract, service type, and tenure  
-- **Feature Importance (ML Output):**
+- **Top 10 Features (ML Output):**
   - TotalCharges
   - tenure
   - MonthlyCharges

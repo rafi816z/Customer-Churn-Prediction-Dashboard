@@ -1,5 +1,27 @@
 # Customer Churn Prediction Dashboard (Power BI + ML)
 
+## 🧩 Business Problem
+
+Telecom companies face high customer churn, which directly impacts recurring revenue and profitability. With a churn rate of ~26%, the business lacks a proactive, data-driven way to identify customers who are likely to leave, understand the key drivers behind churn, and estimate the revenue at risk.
+
+Current retention strategies are largely reactive and applied broadly, leading to inefficient use of discounts and missed opportunities to retain high-value customers.
+
+This project addresses the problem by using Machine Learning and Power BI to predict customer churn, identify high-risk segments, explain why customers churn, and support data-driven retention and revenue optimization decisions.
+
+---
+
+## 🎯 Business Objective
+
+The objective of this project is to:
+- Predict customer churn probability using Machine Learning  
+- Identify high-risk customers early in their lifecycle  
+- Understand key churn drivers across contracts, tenure, pricing, and services  
+- Estimate revenue at risk due to potential churn  
+- Enable scenario-based retention and discount optimization  
+
+This enables the business to shift from reactive churn analysis to proactive, targeted customer retention.
+
+
 ## ⭐ Project Overview
 This project integrates **Power BI** with **Machine Learning** to predict customer churn, identify high-risk segments, and assess potential revenue loss. Using a Kaggle telecom dataset, an ML model was trained to generate churn probabilities, which were then incorporated into Power BI for interactive visual insights.
 
